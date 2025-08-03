@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Compiled output
+/dist
+
+# Editor/OS specific
+.vscode/
+.idea/
+.DS_Store
+thumbs.db
